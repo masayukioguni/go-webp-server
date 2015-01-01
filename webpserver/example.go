@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	server := server.NewServer("http://lohas.nicoseiga.jp/")
+	server := server.NewServer("")
 
 	server.Run()
 }
