@@ -1,0 +1,21 @@
+{
+	"ImportPath": "github.com/masayukioguni/go-webp-server",
+	"GoVersion": "go1.3.3",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/chai2010/image",
+			"Rev": "30a541887b5459c5d6996ce7255b7b473c6b4f82"
+		},
+		{
+			"ImportPath": "github.com/drone/routes",
+			"Rev": "853bef2b231162bb7b09355720416d3af1510d88"
+		},
+		{
+			"ImportPath": "github.com/nfnt/resize",
+			"Rev": "8f4493144849aa7855fc525f5953c439180e6f25"
+		}
+	]
+}
